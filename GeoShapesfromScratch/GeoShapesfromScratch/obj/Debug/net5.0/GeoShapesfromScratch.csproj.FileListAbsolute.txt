@@ -1,0 +1,16 @@
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.csproj.AssemblyReference.cache
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.AssemblyInfoInputs.cache
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.AssemblyInfo.cs
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.csproj.CoreCompileInputs.cache
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\GeoShapesfromScratch.exe
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\GeoShapesfromScratch.deps.json
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\GeoShapesfromScratch.runtimeconfig.json
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\GeoShapesfromScratch.runtimeconfig.dev.json
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\GeoShapesfromScratch.dll
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\ref\GeoShapesfromScratch.dll
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\bin\Debug\net5.0\GeoShapesfromScratch.pdb
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.dll
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\ref\GeoShapesfromScratch.dll
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.pdb
+C:\repos\GeoShapesfromScratch\GeoShapesfromScratch\obj\Debug\net5.0\GeoShapesfromScratch.genruntimeconfig.cache

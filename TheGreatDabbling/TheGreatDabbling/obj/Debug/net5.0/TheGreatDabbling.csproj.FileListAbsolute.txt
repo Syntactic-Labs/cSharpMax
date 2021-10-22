@@ -1,0 +1,16 @@
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\TheGreatDabbling.exe
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\TheGreatDabbling.deps.json
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\TheGreatDabbling.runtimeconfig.json
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\TheGreatDabbling.runtimeconfig.dev.json
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\TheGreatDabbling.dll
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\ref\TheGreatDabbling.dll
+C:\repos\TheGreatDabbling\TheGreatDabbling\bin\Debug\net5.0\TheGreatDabbling.pdb
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.csproj.AssemblyReference.cache
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.AssemblyInfoInputs.cache
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.AssemblyInfo.cs
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.csproj.CoreCompileInputs.cache
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.dll
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\ref\TheGreatDabbling.dll
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.pdb
+C:\repos\TheGreatDabbling\TheGreatDabbling\obj\Debug\net5.0\TheGreatDabbling.genruntimeconfig.cache

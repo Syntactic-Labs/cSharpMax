@@ -1,0 +1,16 @@
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\GeoShapePrac.exe
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\GeoShapePrac.deps.json
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\GeoShapePrac.runtimeconfig.json
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\GeoShapePrac.runtimeconfig.dev.json
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\GeoShapePrac.dll
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\ref\GeoShapePrac.dll
+C:\repos\GeoShapePrac\GeoShapePrac\bin\Debug\net5.0\GeoShapePrac.pdb
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.csproj.AssemblyReference.cache
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.AssemblyInfoInputs.cache
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.AssemblyInfo.cs
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.csproj.CoreCompileInputs.cache
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.dll
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\ref\GeoShapePrac.dll
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.pdb
+C:\repos\GeoShapePrac\GeoShapePrac\obj\Debug\net5.0\GeoShapePrac.genruntimeconfig.cache

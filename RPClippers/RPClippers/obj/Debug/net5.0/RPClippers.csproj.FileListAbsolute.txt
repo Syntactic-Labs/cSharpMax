@@ -1,0 +1,16 @@
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\RPClippers.exe
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\RPClippers.deps.json
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\RPClippers.runtimeconfig.json
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\RPClippers.runtimeconfig.dev.json
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\RPClippers.dll
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\ref\RPClippers.dll
+C:\repos\RPClippers\RPClippers\bin\Debug\net5.0\RPClippers.pdb
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.csproj.AssemblyReference.cache
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.AssemblyInfoInputs.cache
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.AssemblyInfo.cs
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.csproj.CoreCompileInputs.cache
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.dll
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\ref\RPClippers.dll
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.pdb
+C:\repos\RPClippers\RPClippers\obj\Debug\net5.0\RPClippers.genruntimeconfig.cache

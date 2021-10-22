@@ -1,0 +1,12 @@
+C:\repos\EdDbLib\EdDbLib\bin\Debug\net5.0\EdDbLib.deps.json
+C:\repos\EdDbLib\EdDbLib\bin\Debug\net5.0\EdDbLib.dll
+C:\repos\EdDbLib\EdDbLib\bin\Debug\net5.0\ref\EdDbLib.dll
+C:\repos\EdDbLib\EdDbLib\bin\Debug\net5.0\EdDbLib.pdb
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.csproj.AssemblyReference.cache
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.AssemblyInfoInputs.cache
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.AssemblyInfo.cs
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.csproj.CoreCompileInputs.cache
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.dll
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\ref\EdDbLib.dll
+C:\repos\EdDbLib\EdDbLib\obj\Debug\net5.0\EdDbLib.pdb
